@@ -7,7 +7,7 @@ categories:
 - Life
 password: LT0121
 abstract: 该篇文章博主不想让其他人看见哟~
-message: 输入密码可见~
+message: 输入密码后按回车可见~
 wrong_pass_message: 抱歉, 这个密码不对, 请再试试.
 wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
 ---
