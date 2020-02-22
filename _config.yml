@@ -95,6 +95,8 @@ ignore:
 encrypt:
         enable: true
 
+aplayer:
+  meting: true
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
